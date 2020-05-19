@@ -1,13 +1,17 @@
 body{
-    background-color: blanchedalmond
+    background-image: url(/Bilder/Landscape.jpg);
+    text-align: center;
+    
+    
 }
-.Formulär{
-    background-color: rgb(228, 46, 46);
-    color: black;
+.Inlogg{
+    
+    color: rgb(173, 10, 10);
     text-align: center;
 }
-.Knapp{
-    background-color: green;
+.Logga{
+    color: greenyellow;
 }
+
 
     
