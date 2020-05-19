@@ -1,20 +1,13 @@
 body{
-    background-color: lightcoral;
+    background-color: blanchedalmond
 }
-#E-Mail{
-    background-color: black;
-    color: firebrick;
+.Formulär{
+    background-color: rgb(228, 46, 46);
+    color: black;
+    text-align: center;
 }
-#Förnamn{
-    background-color: black;
-    color: firebrick;
+.Knapp{
+    background-color: green;
 }
-#Formulär{
-    background-color: black;
-    color: firebrick;
-}
-#Knapp1{
-    background-color: black;
-    color: firebrick;
-}
+
     
